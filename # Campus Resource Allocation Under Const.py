@@ -1,4 +1,4 @@
-# Campus Resource Allocation Under Constraints
+
 
 available = {
     "projector": 3,
@@ -6,7 +6,6 @@ available = {
     "microphone": 2
 }
 
-# Earlier item = higher priority
 
 activities = [
     ("Exam", {"projector": 1, "laptop": 4, "microphone": 0}),
